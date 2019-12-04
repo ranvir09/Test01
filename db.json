@@ -1,0 +1,17 @@
+{
+  "Companies": [
+    { "id": 1, "title": "IBM" },
+    { "id": 2, "title": "Google" },
+    { "id": 3, "title": "Facebook" },
+    { "id": 4, "title": "Pega" }
+  ],
+  "Feedback": [
+    { "id": 1, "body": "Legacy", "postId": 1 },
+    { "id": 2, "body": "Innovative", "postId": 1 },
+    { "id": 3, "body": "No privacy", "postId": 1 },
+    { "id": 4, "body": "RPA leader", "postId": 1 }
+  ],
+  "profile": {
+    "name": "ranbirsingh"
+  }
+}
